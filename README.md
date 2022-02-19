@@ -1,2 +1,2 @@
 # BBRainZ
-For the hackathon 2022 spring in WSU Pullman
+For the Crimson Code Hackathon 2022 Spring in WSU Pullman
