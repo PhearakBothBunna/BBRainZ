@@ -9,7 +9,7 @@ from email.utils import make_msgid
 #argv[2] - email recipient address
 
 sender_address = "bbrainzproject@gmail.com"
-recipient_address = str(sys.argv[3]) #+ ", " + str(sys.argv[2])
+recipient_address = str(sys.argv[3]) + ", " + str(sys.argv[2])
 attachment_name = str(sys.argv[1]) + "'s Schedule"
 
 
