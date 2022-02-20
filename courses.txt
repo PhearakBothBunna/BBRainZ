@@ -1,0 +1,59 @@
+111 [QUAN]  Introduction to Computer Programming 3 (2-3) %  MATH 101 with a C or better, MATH 103 with a C or better, or higher level MATH course with a C or better, or a minimum ALEKS math placement score of 45%
+121  Program Design and Development C/C++ 4 (3-3) % MATH 108, 171, 172, 182, 201, 202, 206, or 220, each with a C or better, or a minimum ALEKS math placement score of 80%, or adequate CPT S placement test score determined by the department
+122  Data Structures C/C++ 4 (3-3) % CPT S 121 with a C or better
+131  Program Design and Development Java 4 (3-3) % 
+132  Data Structures Java 4 (3-3) % CPT S 131 with a C or better
+215  Data Analytics Systems and Algorithms 3 % CPT S 122, CPT S 132, or CS 122
+223  Advanced Data Structures C/C++ 3 % CPT S 122 with a C or better; MATH 216 with a C or better or concurrent enrollment
+224  Programming Tools 2 % CPT S 122 with a C or better, or CPT S 132 with a C or better
+233  Advanced Data Structures Java 3 % CPT S 132 with a C or better; MATH 216 with a C or better or concurrent enrollment
+260  Introduction to Computer Architecture 3 % CPT S 223 with a C or better or concurrent enrollment, or CPT S 233 with a C or better or concurrent enrollment
+302  Professional Skills in Computing and Engineering 3 % CPT S 122 or 132, OR CPT S 121 or 131 and E E 261; admitted to a major in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics; junior standing
+315  Introduction to Data Mining 3 % CPT S 215, 223, 233, or CS 215, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+317  Automata and Formal Languages 3 % CPT S 122 or 132, with a C or better; MATH 216 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+321  Object-Oriented Software Principles 3 % CPT S 223 or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+322 [M]  Software Engineering Principles I 3 % CPT S 215, 223, or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Data Analytics, or major in Neuroscience
+323  Software Design 3 % CPT S 223 or 233, with a C or better; CPT S 322 with a C or better or concurrent enrollment; admitted to the major or minor in Cpt Sci, Cpt Engr, E E, Swr Engr, or Data Analytics
+327  Introduction to Cyber Security 3 % CPT S 223 or 233 with a C or better; CPT S 260 or E E 234 with a C or better; CPT S 360 or 370 with a C or better or concurrent enrollment; MATH 216 with a C or better
+350  Design and Analysis of Algorithms 3 % CPT S 215, 223, or 233, with a C or better; CPT S 317 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+355  Programming Language Design 3 % CPT S 223 or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+360  Systems Programming C/C++ 4 (3-3) % CPT S 223 with a C or better; CPT S 260 with a C or better or E E 234 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+370  Systems Programming Java 4 (3-3) % CPT S 233 with a C or better; CPT S 260 with a C or better or E E 234 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+401  Computers and Society 3 % CPT S 215, 223, or 233; admitted to the major in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics; junior standing
+411  Introduction to Parallel Computing 3 % CPT S 215, 223, or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+415  Big Data 3 % CPT S 215, 223, or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+421  Software Design Project I 3 (1-6) % C or better in CPT S 321 and 322; or C or better in CPT S 322 and CPT S 360 or 370; or C or better CPT S 322 and concurrent enrollment in CPT S 360 or 370; admitted major or minor in Cpt S, Cpt Engr, E E, Sftwr Engr, or Data Anlytc
+422 [M]  Software Engineering Principles II 3 % CPT S 321 with a C or better or CPT S 323 with a C or better; CPT S 322 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+423 [CAPS]  Software Design Project II 3 (1-6) % CPT S 421 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+427  Applied Cyber Security 3 % CPT S 327 with a C or better
+428  Advanced Cyber Security 3 % CPT S 327 with a C or better
+430  Numerical Analysis 3 % MATH 315 with a C or better; one of CPT S 121, 131, or MATH 300, with a C or better
+434  Neural Network Design and Application 3 % CPT S 121, 131, or E E 221, with a C or better; STAT 360 with a C or better; admitted to the major or minor in Computer Science, Computer Engr, Electrical Engr, Software Engr, Data Analytics, or major in Neuroscience
+437  Introduction to Machine Learning 3 % CPT S 215, 223, or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+438  Scientific Visualization 3 % CPT S 223 or 233, with a C or better; CPT S 224 with a C or better; MATH 172 or 182, with a C or better; admitted to the major or minor in Computer Science, Computer Engr, Electrical Engr, Software Engr, or Data Analytics
+439  Critical Infrastructure Security: The Emerging Smart Grid 3 % Senior standing
+440  Artificial Intelligence 3 % CPT S 223 or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Data Analytics, or major in Neuroscience
+442  Computer Graphics 3 % CPT S 223 with a C or better; CPT S 224 with a C or better or CPT S 360 with a C or better; MATH 220 with a C or better; admitted major or minor in Computer Science, Computer Engr, Electrical Engr, Software Engr, or Data Analytics
+443  Human-Computer Interaction 3 % CPT S 223 or 233; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Data Analytics, or major in Neuroscience; junior standing
+451  Introduction to Database Systems 3 % CPT S 215, 223, or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+452  Compiler Design 3 % CPT S 317 with a C or better; CPT S 355 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+453  Graph Theory 3 % MATH 220, 225, or 230
+455  Introduction to Computer Networks 3 % CPT S 360, 370, or E E 234, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+460  Operating Systems and Computer Architecture 3 % CPT S 360 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering; Software Engineering, or Data Analytics
+464  Distributed Systems Concepts and Programming 3 % CPT S 223, 233, or E E 234, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+466  Embedded Systems 3 (2-3) % CPT S 360 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering; Software Engineering, or Data Analytics
+471  Computational Genomics 3 % CPT S 223 or 233, with a C or better; CPT S 350 with a C or better or concurrent enrollment; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+475  Data Science 3 % CPT S 215, CPT S 223, or CPT S 233, with a C or better
+476  Software Construction and Maintenance 3 % CPT S 322 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+478  Software Process and Management 3 % CPT S 322 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+479  Mobile Application Development 3 % CPT S 223 or 233, with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+481  Python Software Construction 3 % CPT S 223 with a C or better; CPT S 224 or CPT S 360 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+483  Topics in Computer Science V 1-4 May be repeated for credit. % Admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+484  Software Requirements 3 % CPT S 322 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+485  Gerontechnology I 3 %  CPT S 215, 223, or 233; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Data Analytics, or major in Psychology
+486  Gerontechnology II 3 %  CPT S 215, 223, or 233; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, Data Analytics, or major in Psychology
+487  Software Design and Architecture 3 % CPT S 321 with a C or better; CPT S 322 with a C or better; admitted major or minor in Computer Sci, Computer Engr, Electrical Engr, Software Engr, or Data Analytics
+488  Professional Practice Coop/Internship I V 1-2 May be repeated for credit; cumulative maximum 6 hours. % By department permission
+489  Web Development 3 % CPT S 322 with a C or better; admitted to the major or minor in Computer Science, Computer Engineering, Electrical Engineering, Software Engineering, or Data Analytics
+490  Work Study Internship V 1-9 May be repeated for credit; cumulative maximum 9 hours. % Computer Science major; by permission only
+800  Doctoral Research, Dissertation, and/or Examination V 1-18 May be repeated for credit. %  Admitted to the Computer Science PhD program
