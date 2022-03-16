@@ -4,64 +4,75 @@ import java.util.Collections;
 public class Planner {
 
     // Array lists for each categories
-    private final ArrayList <String> prevCourse ;
-    private final ArrayList <String> currCourse;
-    private final ArrayList <String> futureCourse;
-    private final ArrayList <String> preReqMet ;
-    private final ArrayList <String> preReqNotMet;
+    private ArrayList<Course> takingCourses;
+    private ArrayList<Course> preReqMet;
+    private ArrayList<Course> preReqNotMet;
 
-    public Planner (ArrayList<String> prevCourse, ArrayList<String> currCourse,
-                    ArrayList <String> futureCourse, ArrayList<String> preReqMet,
-                    ArrayList<String> preReqNotMet){
-
-        this.prevCourse = prevCourse;
-        this.currCourse = currCourse;
-        this.futureCourse = futureCourse;
-        this.preReqMet = preReqMet;
-        this.preReqNotMet = preReqNotMet;
+    public Planner(){
+        this.takingCourses = new ArrayList<>();
+        this.preReqMet = new ArrayList<>();
+        this.preReqNotMet = new ArrayList<>();
     }
 
-    public void addCourse(ArrayList <String> courseType, String courseName){
-        // Add the course to an arraylist
-        courseType.add(courseName);
+    public void addTakingCourse(Course newCourse){
+        takingCourses.add(newCourse);
+    }
+    
+    public void addPreReqMet(Course newCourse){
+        preReqMet.add(newCourse);
+    }
+    
+    public void addPreReqNotMet(Course newCourse){
+        preReqNotMet.add(newCourse);
+    }
+    
+    public void removeTakingCourse(Course newCourse){
+        takingCourses.remove(newCourse);
+    }
+    
+    public void removePreReqMet(Course newCourse){
+        preReqMet.remove(newCourse);
+    }
+    
+    public void removePreReqNotMet(Course newCourse){
+        preReqNotMet.remove(newCourse);
+    }
+    
+    public ArrayList<Boolean> preReqsMet(Course course){
+        ArrayList<Boolean> temp = new ArrayList<>();
+        for(ArrayList<Integer> preReqList : course.getPreReqs()){
+            Boolean flag = false;
+            for(int preReq: preReqList){
+                if(takingCourses.contains(preReq)){
+                     flag = true;
+                }
+            }
+            temp.add(flag);
+        }
+        return temp;
+    }
+    
+    public boolean addCourse(Course newCourse){
+        ArrayList<Boolean> temp = preReqsMet(newCourse);
+        if(temp.contains(false)){
+            addPreReqNotMet(newCourse);
+            return false;
+        }
+        else{
+            addPreReqMet(newCourse);
+            return true;
+        }
     }
 
-    public void moveCourse(ArrayList <String> courseType, String courseName, ArrayList <String> toCourse){
-        // Move a course from an arraylist to another arraylist
-        courseType.remove(courseName);
-        toCourse.add(courseName);
+    public ArrayList<Course> getTakingCourses() {
+        return takingCourses;
     }
 
-    public ArrayList<String> getPrevCourse() {
-        return prevCourse;
-    }
-
-    public ArrayList<String> getCurrCourse() {
-        return currCourse;
-    }
-
-    public ArrayList<String> getFutureCourse() {
-        return futureCourse;
-    }
-
-    public ArrayList<String> getPreReqMet() {
+    public ArrayList<Course> getPreReqMet() {
         return preReqMet;
     }
 
-    public ArrayList<String> getPreReqNotMet() {
+    public ArrayList<Course> getPreReqNotMet() {
         return preReqNotMet;
-    }
-
-    // if there's at least 1 pre requisite class that we haven't taken,it will return false
-    // which means that we cannot pick the class
-    // true: can pick, false: can't pick
-    public boolean canPickClass(){
-        return preReqNotMet.size() < 1;
-    }
-
-
-    // Sort the arraylist
-    public void sort(ArrayList<String> courseType) {
-        Collections.sort(courseType);
     }
 }
