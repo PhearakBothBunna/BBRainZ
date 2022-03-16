@@ -1,0 +1,34 @@
+111,Introduction to Computer Programming
+121,Program Design and Development C/C++
+122,Data Structures C/C++,121
+131,Program Design and Development Java
+132,Data Structures Java,131
+215,Data Analytics Systems and Algorithms,122%132
+223,Advanced Data Structures C/C++,122
+224,Programming Tools,122%132
+233,Advanced Data Structures Java,132
+260,Introduction to Computer Architecture,122%132
+302,Professional Skills in Computing and Engineering,122%132
+315,Introduction to Data Mining,215%223%233
+317,Automata and Formal Languages,122%132
+321,Object Oriented Software Principles,223%233
+322,Software Engineering Principles I,215%223%233
+323,Software Design,223%233,322
+327,Introduction to Cyber Security,223%233,260
+350,Design and Analysis of Algorithms,215%223%233
+355,Programming Language Design,223%233
+360,Systems Programming C/C++,223,260
+370,Systems Programming Java,233,260
+401,Computers and Society,215%223%233
+411,Introduction to Parallel Computing,215%223%233
+415,Big Data,215%223%233
+421,Software Design Project I,321%322,360%370
+422,Software Engineering Principles II,321%323
+423,Software Design Project II,421
+427,Applied Cyber Security,327
+428,Advanced Cyber Security,327
+430,Numerical Analysis,121%131
+488,Professional Practice Coop/Internship
+489,Web Development,322
+490,Work Study Internship
+499,Special Problems
